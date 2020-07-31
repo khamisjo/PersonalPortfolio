@@ -55,11 +55,11 @@ const Projects = () => {
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        See Live
+                        Source Code
                       </a>
 
                       {repo && (
-                        <a
+                       <a
                           target="_blank"
                           rel="noopener noreferrer"
                           className="cta-btn text-color-main"
@@ -67,6 +67,7 @@ const Projects = () => {
                         >
                           Source Code
                         </a>
+                        
                       )}
                     </div>
                   </Fade>
