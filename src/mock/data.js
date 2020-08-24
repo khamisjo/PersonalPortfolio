@@ -30,7 +30,7 @@ export const aboutData = {
   paragraphThree: ''+
   'Aside from programming, I like reading, playing the guitar, taking walks, working out, cooking, and trying new restaurants.'
   ,
-  resume: 'https://www.dropbox.com/s/mabrl9fuqcsm50n/Resume.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/hbh7ujzel3unxni/Resume%20-.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
