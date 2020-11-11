@@ -40,7 +40,7 @@ export const projectsData = [
       'Eventify is an iOS app that lets users post events and parties and check for upcoming ones based on their preferences.' +
       'It uses a third party API called PosterMyWall to provide users with flyers to facilitate creating one for their event or party. ' +
       'This app aims to connect students more to the student organizations and Greek Life in UCLA',
-    info2: 'Built In: ReactNative, Firebase',
+    info2: 'Built In: ReactNative',
     url: 'https://github.com/khamisjo/Eventify.git',
     repo: '', // if no repo, the button will not show up
   },
