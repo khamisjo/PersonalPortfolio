@@ -20,13 +20,13 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hey!',
   paragraphTwo:
-    "I'm Jonathan, a Computer Science student graduating UCLA this March. I have worked with " +
+    "I'm Jonathan, a Computer Science student graduating UCLA this June. I have worked with " +
     'several languages and platforms so far including: C, C++, Python, HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB, React, ReactNative, GraphQL, Firebase and MATLAB.' +
     'I am mainly interested in building Web Apps; however, I like learning other aspects of computer science such as Computer Security and Machine Learning' +
     ' to incorperate new technologies into my apps. ',
   paragraphThree:
     '' +
-    'To tell you a bit about my non-technical side, I am 25 years old ,and I moved to the US when I was 18. Although I spent longer than average time in college because of my circumstances, I believe I have learned valuable skills other than my school education.I like reading psychology and history books; psychology because I believe in the power of human mind and how important to learn how to leverage such a powerful tool, history because learning about the past helps us to understand the present and improve the accuray of our future predictions. I also like to workout, play the guitar, cook and learn new food recipes, and spend time with family and friends.',
+    'To tell you a bit about my non-technical side, I like reading psychology and history books; psychology because I believe in the power of human mind and how important to learn how to leverage such a powerful tool to achieve our full potential, history because learning about the past helps us to understand the present and better predict the future. I also like to workout, play the guitar, cook and learn new food recipes, and spend time with family and friends.',
   resume: 'https://www.dropbox.com/s/5pd6npfa7wcre59/Resume%20-Jonathan%20Khamis.pdf?dl=0', // if no resume, the button will not show up
 };
 
@@ -57,7 +57,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'chicken-tinder.png',
+    img: 'comingsoon.jpg',
     title: 'Chicken Tinder',
     info:
       'Chicken Tinder is an interactive web app that helps friends who cannot decide on a restaurant to finally find a match everybody agrees on. Inspired by Tinder’s design to find date matches, Chicken Tinder also lets users swipe left and right on restaurants instead of potential dates until they find a matched restaurant.',
@@ -73,17 +73,6 @@ export const projectsData = [
       'This is a classic 2D Space Invaders game that I built with a team of 3 other students to learn and practice object oriented programming  ',
     info2: 'Built In: C++',
     url: 'https://github.com/khamisjo/SpaceInvaders.git',
-    repo: '', // if no repo, the button will not show up
-  },
-
-  {
-    id: nanoid(),
-    img: 'comingsoon.jpg',
-    title: 'Trojan Hunter',
-    info:
-      'A Google Chrome extension that scans websites for vulnarabilies such as SQL Injections, XSS, and Security Misconfiguration',
-    info2: '',
-    url: '',
     repo: '', // if no repo, the button will not show up
   },
 ];
