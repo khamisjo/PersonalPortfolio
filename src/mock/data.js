@@ -27,7 +27,7 @@ export const aboutData = {
   paragraphThree:
     '' +
     'To tell you a bit about my non-technical side, I like reading psychology and history books; psychology because I believe in the power of human mind and how important to learn how to leverage such a powerful tool to achieve our full potential, history because learning about the past helps us to understand the present and better predict the future. I also like to workout, play the guitar, cook and learn new food recipes, and spend time with family and friends.',
-  resume: 'https://www.dropbox.com/s/5pd6npfa7wcre59/Resume%20-Jonathan%20Khamis.pdf?dl=0', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/kry5ffaox036yba/Resume%20-%20Jonathan%20Khamis.pdf?dl=0', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
