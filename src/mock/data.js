@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     "I'm Jonathan, a Computer Science student graduating UCLA this June. I have worked with " +
     'several languages and platforms so far including: C, C++, Python, HTML, CSS, JavaScript, TypeScript, Node.js, MongoDB, React, ReactNative, GraphQL, Firebase and MATLAB.' +
-    'I am mainly interested in building Web Apps; however, I like learning other aspects of computer science such as Computer Security and Machine Learning' +
+    'I am mainly interested in building Web Apps; however, I like learning about all aspects of computer science' +
     ' to incorperate new technologies into my apps. ',
   paragraphThree:
     '' +
