@@ -35,18 +35,6 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'eventify.png',
-    title: 'Eventify (mobile)',
-    info:
-      'Eventify is an iOS app that lets users post events and parties and check for upcoming ones based on their preferences.' +
-      'It uses a third party API called PosterMyWall to provide users with flyers to facilitate creating one for their event or party. ' +
-      'This app aims to connect students more to the student organizations and Greek Life in UCLA',
-    info2: 'Built In: ReactNative',
-    url: 'https://github.com/khamisjo/Eventify.git',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'eventify.png',
     title: 'Eventify (web)',
     info:
       'Eventify is a web app that lets users post events and parties and check for upcoming ones based on their preferences.' +
@@ -57,7 +45,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'chiTinder.png',
+    img: 'chiTinder.jpg',
     title: 'Chicken Tinder',
     info:
       'Chicken Tinder is an interactive web app that helps friends who cannot decide on a restaurant to finally find a match everybody agrees on. Inspired by Tinder’s design to find date matches, Chicken Tinder also lets users swipe left and right on restaurants instead of potential dates until they find a matched restaurant.',
